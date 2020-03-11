@@ -4,12 +4,17 @@ void printUserName(char *name) {
 	printf("%s\n", name);
 }
 
+<<<<<<< HEAD
 int add(int x, int y) {
 	return x + y;
 }
 
 int mul(int x,int y) {
 	return x*y;
+=======
+void subtract(int x,int y) {
+	return x-y;
+>>>>>>> new_branch
 }
 
 int main () {
