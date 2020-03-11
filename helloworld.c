@@ -4,6 +4,10 @@ void printUserName(char *name) {
 	printf("%s\n", name);
 }
 
+void subtract(int x,int y) {
+	return x-y;
+}
+
 int main () {
 
 	printf("Hello world\n");
